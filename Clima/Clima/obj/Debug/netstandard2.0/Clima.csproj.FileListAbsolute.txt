@@ -1,0 +1,6 @@
+C:\Users\Yessi\source\repos\Clima\Clima\Clima\bin\Debug\netstandard2.0\Clima.deps.json
+C:\Users\Yessi\source\repos\Clima\Clima\Clima\bin\Debug\netstandard2.0\Clima.dll
+C:\Users\Yessi\source\repos\Clima\Clima\Clima\obj\Debug\netstandard2.0\Clima.csprojAssemblyReference.cache
+C:\Users\Yessi\source\repos\Clima\Clima\Clima\obj\Debug\netstandard2.0\Clima.csproj.CoreCompileInputs.cache
+C:\Users\Yessi\source\repos\Clima\Clima\Clima\obj\Debug\netstandard2.0\Clima.AssemblyInfoInputs.cache
+C:\Users\Yessi\source\repos\Clima\Clima\Clima\obj\Debug\netstandard2.0\Clima.AssemblyInfo.cs
